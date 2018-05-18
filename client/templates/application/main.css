@@ -1,0 +1,45 @@
+/* CSS declarations go here */
+
+.panel-title {
+    margin-top: 2px;
+    margin-bottom: -2px;
+    font-size: 26px;
+    color: inherit;
+}
+
+.topmenu {
+    background-color: bisque;
+    height: 25px;
+    font-size: medium;
+    font-style: oblique;
+    padding-bottom: 40px;
+    border-radius: 20px
+}
+
+.mainView {
+    padding-top: 10px;
+}
+
+.content {
+    text-align: center;
+    font-size: larger;
+}
+
+.nav > li > a {
+    position: relative;
+    display: block;
+    font-style: oblique;
+    background-color: cornsilk;
+    opacity: 0.6;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 9px
+}
+
+.panel-heading {
+    padding: 10px 30px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-radius: 20px
+}

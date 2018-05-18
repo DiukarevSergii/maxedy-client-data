@@ -1,0 +1,11 @@
+{
+  "name": "maxedy-client-data",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "file-saver": "^1.3.8"
+  }
+}
